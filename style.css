@@ -1,0 +1,35 @@
+.container{ 
+    font-family: sans-serif;
+    text-align: center;
+    max-width: 100%;
+    padding: 20px;
+}
+.slackDisplayImage{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 auto 20px auto;
+    display: block;
+}
+.slackUsername{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.myTrack{
+    font-size: 2em;
+    font-weight: bold;
+}
+.time{
+    font-size: 20px;
+    font-weight: lighter;
+}
+.githubURL{
+    border: 10px solid #007bff;
+    background: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    
+}
